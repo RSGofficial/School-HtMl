@@ -1,0 +1,8 @@
+body{
+font-family: 'Bradley Hand ITC' ;
+text-align: "center" ;
+justify-content: space-around;
+height: 100%;
+align-items: center;
+background: linear-gradient(#e0b4f1, white, #e5c6f1);
+}
